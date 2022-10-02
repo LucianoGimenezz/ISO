@@ -1,0 +1,5 @@
+- Para acceder a los parametros usamos las variables $0, $1,$2...$n.
+- $# => Contiene la cantidad de parametros.
+- $* => Es una lista con todos los parametros.
+- $? => Contiene el *exit status* del ultimo programa ejecutado.
+- $HOME => Contiene la ruta del directorio home del usuario.

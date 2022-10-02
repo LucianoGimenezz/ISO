@@ -1,0 +1,1 @@
+- El comando exit nos permite finalizar el programa, como parametro recibe el exit status, si recibe 0, significa que el programa finalizo con exito, cualquier numero diferente a cero, significa quefinalizo mal.
